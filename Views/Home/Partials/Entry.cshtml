@@ -1,0 +1,12 @@
+@model HikingTrails.Models.Trail
+<div class="container">
+    @foreach(var trail in ViewBag.Trail)
+    {
+        <h1>@trail.Name</h1>
+        <p>@trail.Description</p>
+        <p>@trail.Length</p>
+        <p>@trail.ElevationChange</p>
+        <h4>@trail.Latitude</h4>
+        <h4>@trail.Longitude</h4>
+    }
+</div>

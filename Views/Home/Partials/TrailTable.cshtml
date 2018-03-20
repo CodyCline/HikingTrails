@@ -1,0 +1,24 @@
+@model HikingTrails.Models.Trail
+<div class="container">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Trail Name</th>
+                <th>Trail Length</th>
+                <th>Elevation Change</th>
+            </tr>
+        </thead>
+            @foreach(var trail in ViewBag.Trails)
+            {
+                <tbody>
+                    <tr>
+                        <th><a href="/trails/@trail.Id">@trail.Name</a></th>
+                        <th>@trail.Length</th>
+                        <th>@trail.ElevationChange</th>
+                    </tr>
+                </tbody>        
+            }
+    </table>
+
+    <button class="btn btn-lg btn-info" onclick="location.href='/add'" type="submit">Add A New Trail</button>
+</div>

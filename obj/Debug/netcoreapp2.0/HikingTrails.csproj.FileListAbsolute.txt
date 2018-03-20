@@ -1,0 +1,10 @@
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\bin\Debug\netcoreapp2.0\HikingTrails.deps.json
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\bin\Debug\netcoreapp2.0\HikingTrails.runtimeconfig.json
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\bin\Debug\netcoreapp2.0\HikingTrails.runtimeconfig.dev.json
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\bin\Debug\netcoreapp2.0\HikingTrails.dll
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\bin\Debug\netcoreapp2.0\HikingTrails.pdb
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\obj\Debug\netcoreapp2.0\HikingTrails.csproj.CoreCompileInputs.cache
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\obj\Debug\netcoreapp2.0\HikingTrails.AssemblyInfoInputs.cache
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\obj\Debug\netcoreapp2.0\HikingTrails.AssemblyInfo.cs
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\obj\Debug\netcoreapp2.0\HikingTrails.dll
+C:\Users\cline\Desktop\DojoAssignments\NETCORE\HikingTrails\obj\Debug\netcoreapp2.0\HikingTrails.pdb
